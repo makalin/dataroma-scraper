@@ -19,7 +19,7 @@ A Go-based web scraper that fetches investment portfolio data from Dataroma.com.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dataroma-scraper.git
+git clone https://github.com/makalin/dataroma-scraper.git
 cd dataroma-scraper
 ```
 
